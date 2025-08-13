@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node+%7C+MongoDB;Advocate+of+Clean+Code+and+System+Performance;Perpetually+Expanding+Technical+Horizons" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node+%7C+MongoDB" alt="Typing SVG" />
   </a>
 </p>
 
